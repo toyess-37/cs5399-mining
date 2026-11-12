@@ -1,0 +1,6 @@
+pandas
+networkx
+matplotlib
+scipy
+neo4j
+jupyter

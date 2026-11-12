@@ -1,0 +1,10 @@
+# Data (too large for git)
+*.jsonl
+*.csv
+data/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
