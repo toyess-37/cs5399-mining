@@ -1,6 +1,6 @@
 # Data (too large for git)
 *.jsonl
-*.csv
+edges.csv
 data/
 
 # Python / Jupyter
