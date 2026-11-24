@@ -8,3 +8,8 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 venv/
+
+# Task 2 caches (large)
+hashtag_edges.csv
+hashtag_nodes.csv
+hashtags.gexf
